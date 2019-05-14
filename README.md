@@ -1,6 +1,8 @@
 # ProjectArista
 Password Manager
 
+Arista is a Sanskrit word which translates to safe, secure.
+
 ## Technologies Used :
 
 * [Java](https://www.java.com/en/)
